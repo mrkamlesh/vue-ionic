@@ -11,8 +11,15 @@ $ ionic start ionic-angular blank
 $ cd ionic-angular
 
 # Run the project
-$ ionic serve
+$ npm run serve
 ```
+
+## App Preview
+
+All app preview screenshots were taken by running `ionic serve --lab` on a retina display.
+
+  <img src="src/assets/screenshot.png" alt="screenshot">
+
 
 ### Compiles and hot-reloads for development
 ```
