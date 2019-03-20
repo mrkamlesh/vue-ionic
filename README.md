@@ -2,6 +2,8 @@
 
 ## Project setup
 ```
+https://ionicworkshop.com/posts/introduction-to-ionic-framework-angular-vue-react/#vuejs
+
 npm install
 ```
 
