@@ -1,10 +1,17 @@
-# ionic-vue
+# ionic-vue [Ionic 4: Angular, Vue.js](https://ionicworkshop.com/posts/introduction-to-ionic-framework-angular-vue-react/#vuejs).
 
 ## Project setup
 ```
-https://ionicworkshop.com/posts/introduction-to-ionic-framework-angular-vue-react/#vuejs
+# Start a new Ionic and Angular project based on the blank template
+$ ionic start ionic-angular blank
 
-npm install
+> don't install AppFlow at this stage
+
+# Change directory
+$ cd ionic-angular
+
+# Run the project
+$ ionic serve
 ```
 
 ### Compiles and hot-reloads for development
