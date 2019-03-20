@@ -16,7 +16,7 @@ $ npm run serve
 
 ## App Preview
 
-All app preview screenshots were taken by running `ionic serve --lab` on a retina display.
+All app preview screenshots were taken by running `npm run serve` on a retina display.
 
   <img src="src/assets/screenshot.png" alt="screenshot">
 
